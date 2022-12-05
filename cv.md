@@ -8,7 +8,6 @@
 * [ Linkedin ](https://www.linkedin.com/in/yakov-zabolotnyi-73b8ab89/)
 * [YouTube](https://www.youtube.com/channel/UCBjuiMfioFWVUVOlbkkB8rQ)
 ## About Myself
-> Please allow me to introduce myself, I'm a man of wealth and taste... 
 
 Over the past ten years, I have worked in the  "altoros"  IT company as a procurement agent. 
 I have a lot of experience in organizing everything necessary for the company's employees. 
