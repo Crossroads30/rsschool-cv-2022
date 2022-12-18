@@ -182,15 +182,7 @@ body {
     font-size: 16px;
     color: #A9A9A9;
 }
-.contacts__email1 {
-    font-size: 12px;
-    color: #A9A9A9;
-}
-.contacts__email2 {
-    font-size: 12px;
-    color: #A9A9A9;
-}
-.contacts__location {
+.contacts__list li {
     font-size: 12px;
     color: #A9A9A9;
 }
@@ -198,7 +190,7 @@ body {
     margin: 0 2px 5px;
 }
 .left-column__skills {
-    margin-bottom: 22px;
+    margin-bottom: px;
 }
 .skills__title {
     letter-spacing: 2px;
@@ -268,7 +260,7 @@ body {
 }
 .scales__integrity {
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .integrity__progress {
     display: block;
@@ -290,6 +282,7 @@ body {
 .scales__english {
     position: relative;
     line-height: 22px;
+    padding-bottom: 20px;
 }
 .english__progress {
     display: block;
@@ -298,7 +291,7 @@ body {
     height: 8px;
     background: #707070;
     margin-left: 50%;
-    bottom: 40px;
+    bottom: 50px;
 }
 .scales__english::after {
     content: '';
@@ -309,7 +302,7 @@ body {
     margin-left: 50%;
     background: #fff;
     z-index: 5;
-    bottom: 40px;
+    bottom: 50px;
 }
 .social__title {
     letter-spacing: 2px;
@@ -384,7 +377,8 @@ body {
     color: #000;
     margin-right: 5px;
 }
-.right-column__work-experience p {
+.right-column__work-experience a {
+    display: block;
     font-size: 14px;
     font-weight: 600;
     line-height: 35px;
