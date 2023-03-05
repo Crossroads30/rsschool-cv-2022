@@ -2,7 +2,7 @@
 # **Yakov Zabalotnyi**
 ## CONTACTS:
 * Location: Minsk,Belarus
-* tel: +375(33)6392140 
+* tel: +375(33)6293140 
 * CROSSROADS30@mail.ru
 * [ GitHub ](https://github.com/Crossroads30)
 * [ Linkedin ](https://www.linkedin.com/in/yakov-zabolotnyi-73b8ab89/)
@@ -16,7 +16,7 @@ it's never too late to learn for some new things!
 
 ## My Experience
 
-I'm just in the beginning...
+RS-SCHOOL stage 0
 ## Code example:
 ``` 
 let a = prompt('what is the sum of the numbers 23 & 32?');
